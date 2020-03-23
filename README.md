@@ -1,3 +1,3 @@
 # work_ide
 
-![alt text](images.jpg)
+![](images.jpg = 1920x1080)
