@@ -1,2 +1,2 @@
 # work_ide
-<img src="visual.jpg"/>
+<img src="visual.png"/>
