@@ -14,4 +14,4 @@ t4 :
 problème d'alimentation identifié au niveau des contacts des piles alcalines, à voir s'il s'agit d'un souci de contact ou de capacité des piles
 mesure à 2.84V et 2.63V (3.3V initialement)
 Faire une connexion solide hors grip frame pour éliminer le potentiel souci de contact et tester la capacité.
-
+12h20 relance du test
